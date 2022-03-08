@@ -54,6 +54,11 @@ Please submit pull requests to us using the format described while making a pull
 
 ## Authors
 
+
+* **[Raj Ranjan](https://www.linkedin.com/in/iamrajranjan/)**
+* **[Sameer Kumar Kushwaha](https://www.linkedin.com/in/kushwahasameerkumar/)**
+* **[Sayan Kar](https://www.linkedin.com/in/sayan-kar-/)**
+* **[Nimish Agrawal](https://www.linkedin.com/in/realnimish/)**
 * **Furqan Ahmed** - [Contact](https://www.flow.page/FurqanAhmed)
 
 See also the list of [contributors](https://github.com/nblogist/beresheet-faucet-frontend/contributors) who participated in this project.
